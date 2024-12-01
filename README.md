@@ -26,10 +26,10 @@
 1. **Установите Python:**
    Убедитесь, что у вас установлен Python. Вы можете скачать его с [официального сайта Python](https://www.python.org/downloads/).
 
-2. **Установите библиотеку Pygame:**
-   Установите библиотеку Pygame с помощью pip:
+2. **Установите необходимые библиотеки:**
    ```sh
-   pip install pygame
+   pip install -r requirements.txt
+   ```
 
 ## Использование
 

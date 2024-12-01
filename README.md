@@ -52,11 +52,6 @@
    pip install -r requirements.txt.
    ```
 
-4. **Установите необходимые библиотеки в виртуальное окружение:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## Использование
 
 1. Запуск игры
